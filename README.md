@@ -6,3 +6,5 @@ Check for understanding Functions Screenshot.
 
 
 
+Image of student List
+![image](https://github.com/Aero-ComSci/3-2-4-BaeztheProg-1/assets/148258174/3ebd822f-6879-4c60-801e-593e472523fa)
