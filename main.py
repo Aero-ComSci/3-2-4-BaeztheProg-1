@@ -43,9 +43,7 @@ print(roster)
     # Each iteration should:
         # print the student
 for eachStudent in roster:
-    print(eachStudent.get_first_name())
-    print(eachStudent.courses)
-
+  print(eachStudent)
 """
  for this part you may need to review the other skeleton code to:
     - see how to get items from a list

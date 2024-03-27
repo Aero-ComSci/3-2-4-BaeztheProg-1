@@ -21,7 +21,7 @@ class Student:
             # TODO Add code here to create a string representation of a student,
             # including first and last name and all courses that student is taking
         for eachcourse in self.courses:
-            studentstr += eachcourse + '\n'
+            studentstr += str(eachcourse) + '\n'
         return studentstr
         
     def get_first_name(self):
