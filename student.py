@@ -14,11 +14,15 @@ class Student:
     def __str__(self):
         # Calling "print(student)"" from main.py will call this method instead
         # TODO You will need to use a variable in the loop, so you must intialize it here,
+        studentstr = ""
         # that variable will need to be initalized to get items listed in the first def _init_ section
+        studentstr = self.first_name + " " + self.last_name + "\n"
         # TODO add a loop that will go through the course list
             # TODO Add code here to create a string representation of a student,
             # including first and last name and all courses that student is taking
-        return "complete this return statement based on your in loop variable"
+        for eachcourse in self.courses:
+            studentstr += eachcourse + '\n'
+        return studentstr
         
     def get_first_name(self):
         return self.first_name
