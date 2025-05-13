@@ -32,6 +32,9 @@ class Student:
         
     def get_student_id(self):
         return self.student_id
+
+    def get_student_name(self):
+        return f"{self.first_name} {self.last_name}"
     
     def add_course(self, new_course):
         # TODO add code to append new_course to self.courses
