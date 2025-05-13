@@ -1,13 +1,10 @@
-# Activityx.x.x
+# Activity 3.2.4
 
-* Utilize this read me to showcase the project.
-* Be sure to read and use the markdown here:
-[MarkDown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Upload screenshots of the code result
-![alt text][logo]
-* Write a description of what the program does, who is it for?
----
+Check for understanding Functions Screenshot.
 
-[logo]: https://github.com/BaeztheProg/Activity313/blob/main/images/EmeraldHS_NEWCircleMark.jpg "EHS Logo"
+![image](https://github.com/Aero-ComSci/3-2-4-BaeztheProg-1/assets/148258174/0bd3aef2-9fbf-4b65-be80-a4650369ce9a)
 
 
+
+Image of student List
+![image](https://github.com/Aero-ComSci/3-2-4-BaeztheProg-1/assets/148258174/3ebd822f-6879-4c60-801e-593e472523fa)
